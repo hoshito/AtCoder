@@ -1,26 +1,11 @@
 n,k = gets.chomp.split(" ").map(&:to_i)
 
-b = 1
-b_arr = [b]
-while b < k do
-  b *= 2
-  b_arr << b
-end
-max = b_arr[-1]
-puts b_arr.inspect
-
-a = 0
-(1..n).each do |i|
-  if i <= k - 1  then
-    b_arr.each do |b|
-      if i <= b then
-        a += b
-        break
-      end
-    end
-  else
-    a += max
-  end
+tmp_k = k
+b_arr = []
+i = 1
+while tmp_k > 0 do
+  b_arr << tmp_k
+  tmp_k /= 2
 end
 
-puts a / (n * max).to_f
+puts b_arr
