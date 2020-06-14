@@ -1,10 +1,8 @@
-a,b,c,k = gets.chomp.split(" ").map(&:to_i)
+k = gets.chomp.to_i
+s = gets.chomp
 
-if k < a
-  puts k
-elsif k < a + b
-  puts a
+if s.length <= k
+  puts s
 else
-  puts a + (k - a - b) * (-1)
+  puts s[0..(k-1)] + "..."
 end
-

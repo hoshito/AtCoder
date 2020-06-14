@@ -1,4 +1,7 @@
-s=gets.chomp
-puts 700 + 100 * s.count("o")
+n, m, q = gets.chomp.split(" ").map(&:to_i)
+arr = q.times.map{gets.chomp.split(" ").map(&:to_i)}
+
+puts arr
+
 
 

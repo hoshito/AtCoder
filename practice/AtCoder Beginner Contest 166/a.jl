@@ -1,6 +1,9 @@
-#=
-a:
-- Julia version:
-- Author: hoshito
-- Date: 2020-05-04
-=#
+function main()
+  s = readline()
+  if s == "ABC"
+    println("ARC")
+  else
+    println("ABC")
+  end
+end
+main()

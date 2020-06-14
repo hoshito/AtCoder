@@ -1,26 +1,41 @@
-n,k = gets.chomp.split(" ").map(&:to_i)
-a_arr = [0] + gets.chomp.split(" ").map(&:to_i)
-tmp_arr = []
-flag_arr = []
+require "set"
+n,m = gets.chomp.split(" ").map(&:to_i)
 
-index = 1
-count = 0
-k.times do |i|
-  index = a_arr[index]
-  if flag_arr[index] == 1
-    a_i = tmp_arr.index{|a| a == index}
-    q = (k - a_i) % (count - a_i)
-    if q == 0
-      puts tmp_arr[-1]
-    else
-      puts tmp_arr[a_i + q - 1]
+route = {}
+room = Set.new
+m.times do
+  a,b = gets.chomp.split(" ").map(&:to_i)
+  route[a] ||= Set.new
+  route[a] << b
+  route[b] ||= Set.new
+  route[b] << a
+  room << a
+  room << b
+end
+
+result = {}
+result[1] = 0
+
+next_set = Set.new
+next_set << 1
+while next_set.length > 0
+  set = next_set
+  next_set = Set.new
+  set.each do |r|
+    route[r].each do |next_r|
+      next if result[next_r]
+      result[next_r] = r
+      next_set << next_r
     end
-    exit 0
-  else
-    flag_arr[index] = 1
-    count += 1
-    tmp_arr << index
   end
 end
 
-puts index
+if result.length == room.length
+  puts "Yes"
+  (2..n).each do |i|
+    puts result[i]
+  end
+else
+  puts "No"
+end
+

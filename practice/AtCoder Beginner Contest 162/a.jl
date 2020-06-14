@@ -1,5 +1,4 @@
-function main()
-  r = parse.(Int,readline())
-  println(2pi*r)
-end
-main()
+(() -> begin
+  println(occursin("7", readline()) ? "Yes" : "No")
+  #println(in('7', readline()) ? "Yes" : "No")
+end)()

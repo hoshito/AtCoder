@@ -1,5 +1,5 @@
 function main()
-  s,w = parse.(Int,split(readline()))
-  println(w >= s ? "unsafe" : "safe")
+  r = parse.(Int,readline())
+  println(2pi*r)
 end
 main()

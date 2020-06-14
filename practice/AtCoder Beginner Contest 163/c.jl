@@ -1,9 +1,8 @@
-function main()
+(() -> begin
   n = parse.(Int,readline())
-  set = Set{String}(readlines())
-  for i in 1:n
-    push!(set, readline())
+  arr = zeros(Int, n)
+  for i in parse.(Int,split(readline()))
+    arr[i] += 1
   end
-  println(length(set))
-end
-main()
+  println.(arr)
+end)()

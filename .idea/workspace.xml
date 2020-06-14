@@ -1,139 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b60406ae-7cc6-499f-8db8-59c6c047378e" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="b60406ae-7cc6-499f-8db8-59c6c047378e" name="Default Changelist" comment="pus">
+      <change afterPath="$PROJECT_DIR$/AtCoder Beginner Contest 168/main_a.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder Beginner Contest 168/main_b.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder Beginner Contest 168/main_c.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder Beginner Contest 168/main_d.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/past201912/a.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/past201912/b.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/past201912/c.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/past201912/d.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/past201912/e.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/past201912/f.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/past201912/g.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 162/a.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 162/b.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 162/c.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 162/d.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 162/d.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 163/a.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 163/b.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 163/c.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 163/d.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 164/a.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 164/b.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 164/c.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 165/a.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 165/b.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 165/c.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 165/d.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 166/a.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 166/c.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 166/d.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 166/e.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/AtCoder Beginner Contest 166/e.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AtCoder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AtCoder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/main_a.rb" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/main_a.rb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AtCoder Grand Contest 033/main_a.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="17" selection-end-line="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Ruby File" />
+        <option value="Julia File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>dream</find>
+      <find>is_open</find>
+      <find>animated</find>
+      <find>n</find>
+      <find>arr2</find>
+      <find>pair</find>
+      <find>cur</find>
+      <find>hash</find>
+      <find>arr</find>
+      <find>puts</find>
+      <find>count</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/01_welcome_to_AtCorder/input.txt" />
-        <option value="$PROJECT_DIR$/01_welcome_to_AtCorder/main.rb" />
-        <option value="$PROJECT_DIR$/ABC086A - Product/main.rb" />
-        <option value="$PROJECT_DIR$/ABC081A - Placing Marbles/main.rb" />
-        <option value="$PROJECT_DIR$/ABC081B - Shift only/main.rb" />
-        <option value="$PROJECT_DIR$/ABC087B - Coins/main.rb" />
-        <option value="$PROJECT_DIR$/ABC087B - Coins/main2.rb" />
-        <option value="$PROJECT_DIR$/ABC083B - Some Sums/main.rb" />
-        <option value="$PROJECT_DIR$/ABC088B - Card Game for Two/main.rb" />
-        <option value="$PROJECT_DIR$/ABC085B - Kagami Mochi/main.rb" />
-        <option value="$PROJECT_DIR$/ABC085C - Otoshidama/main.rb" />
-        <option value="$PROJECT_DIR$/ABC049C - Daydream/main.rb" />
-        <option value="$PROJECT_DIR$/ABC086C - Traveling/main.rb" />
-        <option value="$PROJECT_DIR$/Tenka1 Programmer Beginner Contest 2019/main_a.rb" />
-        <option value="$PROJECT_DIR$/Tenka1 Programmer Beginner Contest 2019/main_b.rb" />
-        <option value="$PROJECT_DIR$/Tenka1 Programmer Beginner Contest 2019/main_c.rb" />
-        <option value="$PROJECT_DIR$/Tenka1 Programmer Beginner Contest 2019/main_d.rb" />
-        <option value="$PROJECT_DIR$/AtCoder Beginner Contest 125/main_a.rb" />
-        <option value="$PROJECT_DIR$/AtCoder Beginner Contest 125/main_b.rb" />
-        <option value="$PROJECT_DIR$/AtCoder Beginner Contest 125/main_c.rb" />
-        <option value="$PROJECT_DIR$/AtCoder Grand Contest 033/main_a.rb" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="24" />
-    <option name="y" value="23" />
-    <option name="width" value="966" />
-    <option name="height" value="1009" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AtCoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtCoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="AtCoder Grand Contest 033" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtCoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1bOpPVhaU3mQk4QjgRQRtx74w8R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown&#10;HTML" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/practice/AtCoder Beginner Contest 165" />
+      <recent name="$APPLICATION_CONFIG_DIR$/scratches/atcoder" />
+      <recent name="$APPLICATION_CONFIG_DIR$/scratches/old" />
+      <recent name="$APPLICATION_CONFIG_DIR$/scratches" />
       <recent name="$PROJECT_DIR$/01_welcome_to_AtCorder" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Tenka1 Programmer Beginner Contest 2019" />
-      <recent name="$PROJECT_DIR$/ABC087B - Coins" />
+      <recent name="$PROJECT_DIR$/practice/AtCoder Beginner Contest 166" />
+      <recent name="$PROJECT_DIR$/practice/AtCoder Beginner Contest 164" />
+      <recent name="$PROJECT_DIR$/practice/AtCoder Beginner Contest 162" />
+      <recent name="$PROJECT_DIR$/practice/AtCoder Beginner Contest 163" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Ruby.main_a (1)">
+  <component name="RunManager" selected="Ruby.main_c">
     <configuration name="main_a (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="AtCoder" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/AtCoder Grand Contest 033" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/AtCoder Beginner Contest 168" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -144,32 +125,14 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/AtCoder Grand Contest 033/main_a.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main_a" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="AtCoder" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/AtCoder Beginner Contest 125" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/AtCoder Beginner Contest 125/main_a.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/AtCoder Beginner Contest 168/main_a.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <configuration name="main_b (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="AtCoder" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/AtCoder Beginner Contest 125" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/AtCoder Beginner Contest 168" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -180,14 +143,14 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/AtCoder Beginner Contest 125/main_b.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/AtCoder Beginner Contest 168/main_b.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <configuration name="main_c (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="AtCoder" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/AtCoder Beginner Contest 125" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/AtCoder Beginner Contest 168" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -198,14 +161,14 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/AtCoder Beginner Contest 125/main_c.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/AtCoder Beginner Contest 168/main_c.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <configuration name="main_c" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="AtCoder" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Tenka1 Programmer Beginner Contest 2019" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/practice/AtCoder Beginner Contest 169" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -216,21 +179,46 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Tenka1 Programmer Beginner Contest 2019/main_c.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/practice/AtCoder Beginner Contest 169/main_c.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
+    <configuration name="main_d (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="AtCoder" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/AtCoder Beginner Contest 168" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/AtCoder Beginner Contest 168/main_d.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Ruby.main_a (1)" />
+      <item itemvalue="Ruby.main_b (1)" />
+      <item itemvalue="Ruby.main_c (1)" />
+      <item itemvalue="Ruby.main_d (1)" />
+      <item itemvalue="Ruby.main_c" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.main_a (1)" />
+        <item itemvalue="Ruby.main_c" />
+        <item itemvalue="Ruby.main_d (1)" />
         <item itemvalue="Ruby.main_c (1)" />
         <item itemvalue="Ruby.main_b (1)" />
-        <item itemvalue="Ruby.main_a" />
-        <item itemvalue="Ruby.main_c" />
+        <item itemvalue="Ruby.main_a (1)" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="false" RAILS_SPRING_PRE_LOADER_OPTION="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -254,203 +242,247 @@
       <workItem from="1556366174173" duration="7569000" />
       <workItem from="1556967934494" duration="7131000" />
       <workItem from="1556978173115" duration="5731000" />
+      <workItem from="1560180559126" duration="10856000" />
+      <workItem from="1560579351989" duration="21593000" />
+      <workItem from="1560771327850" duration="6570000" />
+      <workItem from="1561204459102" duration="5967000" />
+      <workItem from="1561464217302" duration="7682000" />
+      <workItem from="1562073864788" duration="2388000" />
+      <workItem from="1563537327842" duration="106000" />
+      <workItem from="1563623794466" duration="5363000" />
+      <workItem from="1563976714899" duration="3750000" />
+      <workItem from="1564919389325" duration="4164000" />
+      <workItem from="1565437106262" duration="3074000" />
+      <workItem from="1565512961298" duration="7000" />
+      <workItem from="1566129019458" duration="7474000" />
+      <workItem from="1567223286860" duration="6936000" />
+      <workItem from="1567322318653" duration="1323000" />
+      <workItem from="1567339478487" duration="23765000" />
+      <workItem from="1568610601716" duration="5559000" />
+      <workItem from="1568809990522" duration="529000" />
+      <workItem from="1569671645240" duration="3989000" />
+      <workItem from="1571485886488" duration="4154000" />
+      <workItem from="1572177210691" duration="3740000" />
+      <workItem from="1573356064855" duration="161000" />
+      <workItem from="1576288608630" duration="4161000" />
+      <workItem from="1576908741636" duration="5878000" />
+      <workItem from="1577015734433" duration="1893000" />
+      <workItem from="1577530497721" duration="222000" />
+      <workItem from="1577881786612" duration="20000" />
+      <workItem from="1578830147286" duration="1445000" />
+      <workItem from="1579434206538" duration="3962000" />
+      <workItem from="1579954418288" duration="4119000" />
+      <workItem from="1580031439438" duration="880000" />
+      <workItem from="1580039891359" duration="3526000" />
+      <workItem from="1581249433454" duration="4994000" />
+      <workItem from="1581854130141" duration="3489000" />
+      <workItem from="1582372029935" duration="3838000" />
+      <workItem from="1583063838657" duration="4757000" />
+      <workItem from="1583582097391" duration="3658000" />
+      <workItem from="1584186954232" duration="2529000" />
+      <workItem from="1584189683653" duration="1325000" />
+      <workItem from="1586996884849" duration="19000" />
+      <workItem from="1587207870366" duration="554000" />
+      <workItem from="1587466334457" duration="65000" />
+      <workItem from="1587876531172" duration="1126000" />
+      <workItem from="1588512972941" duration="931000" />
+      <workItem from="1588578090635" duration="7115000" />
+      <workItem from="1588594410183" duration="17174000" />
+      <workItem from="1588864303246" duration="7372000" />
+      <workItem from="1589715746679" duration="4642000" />
+      <workItem from="1591540383881" duration="446000" />
     </task>
+    <task id="LOCAL-00001">
+      <created>1560180579819</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560180579819</updated>
+    </task>
+    <task id="LOCAL-00002" summary="いろいろコミット">
+      <created>1560180606107</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560180606107</updated>
+    </task>
+    <task id="LOCAL-00003" summary="いろいろコミット">
+      <created>1560180623049</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560180623049</updated>
+    </task>
+    <task id="LOCAL-00004" summary="いろいろコミット">
+      <created>1560575649716</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560575649716</updated>
+    </task>
+    <task id="LOCAL-00005" summary="pus">
+      <created>1560612343652</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560612343652</updated>
+    </task>
+    <task id="LOCAL-00006" summary="いろいろコミット">
+      <created>1560859251235</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560859251235</updated>
+    </task>
+    <task id="LOCAL-00007" summary="いろいろコミット">
+      <created>1560860900292</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560860900292</updated>
+    </task>
+    <task id="LOCAL-00008" summary="いろいろコミット">
+      <created>1562075731202</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562075731202</updated>
+    </task>
+    <task id="LOCAL-00009" summary="もろもろコミット">
+      <created>1566129143237</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1566129143237</updated>
+    </task>
+    <task id="LOCAL-00010" summary="もろもろコミット">
+      <created>1566129170920</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1566129170920</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit">
+      <created>1579954515446</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579954515446</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit">
+      <created>1588513025012</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1588513025012</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44445000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="285" y="26" width="1515" height="1009" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1724372" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4976239" weight="0.13195202" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49898168" weight="0.32279173" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5023761" side_tool="true" visible="true" weight="0.13195202" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pus" />
+    <MESSAGE value="いろいろコミット" />
+    <MESSAGE value="もろもろコミット" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1193" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588583019893">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1193" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.23.1920.1057/0.23.1920.1013@-1920.23.1920.1057" timestamp="1588583019893" />
+    <state x="-1207" y="127" key="CommitChangelistDialog2" timestamp="1588513024689">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1207" y="127" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.1013@-1920.23.1920.1057" timestamp="1588513024689" />
+    <state x="-1080" y="123" width="980" height="813" key="DiffContextDialog" timestamp="1588594403104">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1080" y="123" width="980" height="813" key="DiffContextDialog/-1920.23.1920.1057/0.23.1920.1013@-1920.23.1920.1057" timestamp="1588594403104" />
+    <state width="881" height="183" key="GridCell.Tab.0.bottom" timestamp="1591540829745">
+      <screen x="0" y="23" width="1920" height="1012" />
+    </state>
+    <state width="881" height="183" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1012@0.23.1920.1012" timestamp="1591540829745" />
+    <state width="1183" height="301" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1013@-1920.23.1920.1057" timestamp="1588665484980" />
+    <state width="1876" height="301" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1013@0.23.1920.1013" timestamp="1589716589470" />
+    <state width="1876" height="183" key="GridCell.Tab.0.bottom/0.23.1920.1012@0.23.1920.1012" timestamp="1589723890590" />
+    <state width="1149" height="301" key="GridCell.Tab.0.bottom/0.23.1920.1013@0.23.1920.1013" timestamp="1588866056801" />
+    <state width="881" height="183" key="GridCell.Tab.0.center" timestamp="1591540829744">
+      <screen x="0" y="23" width="1920" height="1012" />
+    </state>
+    <state width="881" height="183" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1012@0.23.1920.1012" timestamp="1591540829744" />
+    <state width="1183" height="301" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1013@-1920.23.1920.1057" timestamp="1588665484979" />
+    <state width="1876" height="301" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1013@0.23.1920.1013" timestamp="1589716589469" />
+    <state width="1876" height="183" key="GridCell.Tab.0.center/0.23.1920.1012@0.23.1920.1012" timestamp="1589723890590" />
+    <state width="1149" height="301" key="GridCell.Tab.0.center/0.23.1920.1013@0.23.1920.1013" timestamp="1588866056800" />
+    <state width="881" height="183" key="GridCell.Tab.0.left" timestamp="1591540829744">
+      <screen x="0" y="23" width="1920" height="1012" />
+    </state>
+    <state width="881" height="183" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1012@0.23.1920.1012" timestamp="1591540829744" />
+    <state width="1183" height="301" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1013@-1920.23.1920.1057" timestamp="1588665484979" />
+    <state width="1876" height="301" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1013@0.23.1920.1013" timestamp="1589716589469" />
+    <state width="1876" height="183" key="GridCell.Tab.0.left/0.23.1920.1012@0.23.1920.1012" timestamp="1589723890589" />
+    <state width="1149" height="301" key="GridCell.Tab.0.left/0.23.1920.1013@0.23.1920.1013" timestamp="1588866056800" />
+    <state width="881" height="183" key="GridCell.Tab.0.right" timestamp="1591540829745">
+      <screen x="0" y="23" width="1920" height="1012" />
+    </state>
+    <state width="881" height="183" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1012@0.23.1920.1012" timestamp="1591540829745" />
+    <state width="1183" height="301" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1013@-1920.23.1920.1057" timestamp="1588665484980" />
+    <state width="1876" height="301" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1013@0.23.1920.1013" timestamp="1589716589469" />
+    <state width="1876" height="183" key="GridCell.Tab.0.right/0.23.1920.1012@0.23.1920.1012" timestamp="1589723890590" />
+    <state width="1149" height="301" key="GridCell.Tab.0.right/0.23.1920.1013@0.23.1920.1013" timestamp="1588866056800" />
+    <state x="-1215" y="291" key="Vcs.Push.Dialog.v2" timestamp="1588513026622">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1215" y="291" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.1013@-1920.23.1920.1057" timestamp="1588513026622" />
+    <state x="-856" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588578289500">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-856" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.23.1920.1057/0.23.1920.1013@-1920.23.1920.1057" timestamp="1588578289500" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1588655149018">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/-1920.23.1920.1057/0.23.1920.1013@-1920.23.1920.1057" timestamp="1588655149018" />
+    <state x="-1150" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1588657453706">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1150" y="258" width="670" height="676" key="search.everywhere.popup/-1920.23.1920.1057/0.23.1920.1013@-1920.23.1920.1057" timestamp="1588657453706" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AtCoder@main__5_.rcov" NAME="main (5) Coverage Results" MODIFIED="1555338226737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC083B - Some Sums" MODULE_NAME="AtCoder" />
-    <SUITE FILE_PATH="coverage/AtCoder@main_b__1_.rcov" NAME="main_b (1) Coverage Results" MODIFIED="1556366872494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 125" MODULE_NAME="AtCoder" />
-    <SUITE FILE_PATH="coverage/AtCoder@main_a.rcov" NAME="main_a Coverage Results" MODIFIED="1556366559481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 125" MODULE_NAME="AtCoder" />
-    <SUITE FILE_PATH="coverage/AtCoder@main_c__1_.rcov" NAME="main_c (1) Coverage Results" MODIFIED="1556374086190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 125" MODULE_NAME="AtCoder" />
-    <SUITE FILE_PATH="coverage/AtCoder@main__1_.rcov" NAME="main (1) Coverage Results" MODIFIED="1555338570659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC088B - Card Game for Two" MODULE_NAME="AtCoder" />
-    <SUITE FILE_PATH="coverage/AtCoder@main__4_.rcov" NAME="main (4) Coverage Results" MODIFIED="1555251845685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC087B - Coins" MODULE_NAME="AtCoder" />
-    <SUITE FILE_PATH="coverage/AtCoder@main_c.rcov" NAME="main_c Coverage Results" MODIFIED="1555774802476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tenka1 Programmer Beginner Contest 2019" MODULE_NAME="AtCoder" />
     <SUITE FILE_PATH="coverage/AtCoder@main__2_.rcov" NAME="main (2) Coverage Results" MODIFIED="1555340745982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC085C - Otoshidama" MODULE_NAME="AtCoder" />
-    <SUITE FILE_PATH="coverage/AtCoder@main__3_.rcov" NAME="main (3) Coverage Results" MODIFIED="1555601980672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC049C - Daydream" MODULE_NAME="AtCoder" />
-    <SUITE FILE_PATH="coverage/AtCoder@main_a__1_.rcov" NAME="main_a (1) Coverage Results" MODIFIED="1556984568705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Grand Contest 033" MODULE_NAME="AtCoder" />
-    <SUITE FILE_PATH="coverage/AtCoder@main_b.rcov" NAME="main_b Coverage Results" MODIFIED="1555766912968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tenka1 Programmer Beginner Contest 2019" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main_c__1_.rcov" NAME="main_c (1) Coverage Results" MODIFIED="1589717820882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 168" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@b.rcov" NAME="b Coverage Results" MODIFIED="1579954874061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/past201912" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main_a2__1_.rcov" NAME="main_a2 (1) Coverage Results" MODIFIED="1561638881603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/virtual/20190627" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@e.rcov" NAME="e Coverage Results" MODIFIED="1588866056769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/AtCoder Beginner Contest 166" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main_b.rcov" NAME="main_b Coverage Results" MODIFIED="1589113282178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 167" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main_e__1_.rcov" NAME="main_e (1) Coverage Results" MODIFIED="1581254310273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 154" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main_b__1_.rcov" NAME="main_b (1) Coverage Results" MODIFIED="1589716995013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 168" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main_e.rcov" NAME="main_e Coverage Results" MODIFIED="1583585244810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 158" MODULE_NAME="AtCoder" />
     <SUITE FILE_PATH="coverage/AtCoder@main.rcov" NAME="main Coverage Results" MODIFIED="1555338915502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC085B - Kagami Mochi" MODULE_NAME="AtCoder" />
-    <SUITE FILE_PATH="coverage/AtCoder@main_d.rcov" NAME="main_d Coverage Results" MODIFIED="1555766544953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tenka1 Programmer Beginner Contest 2019" MODULE_NAME="AtCoder" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01_welcome_to_AtCorder/01_welcome_to_AtCorder.rb" />
-    <entry file="file://$PROJECT_DIR$/01_welcome_to_AtCorder/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC086A - Product/main.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC081A - Placing Marbles/main.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC087B - Coins/main.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="21" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC081B - Shift only/main.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC087B - Coins/main2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC083B - Some Sums/main.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC088B - Card Game for Two/input.txt" />
-    <entry file="file://$PROJECT_DIR$/ABC088B - Card Game for Two/main.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC085B - Kagami Mochi/main.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC085C - Otoshidama/main.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="2" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC049C - Daydream/main.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC086C - Traveling/main.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="2" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_welcome_to_AtCorder/main.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tenka1 Programmer Beginner Contest 2019/main_a.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tenka1 Programmer Beginner Contest 2019/main_b.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tenka1 Programmer Beginner Contest 2019/main_c.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tenka1 Programmer Beginner Contest 2019/main_d.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AtCoder Beginner Contest 125/main_a.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AtCoder Beginner Contest 125/main_b.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AtCoder Beginner Contest 125/main_d.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AtCoder Beginner Contest 125/main_c.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="30" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AtCoder Grand Contest 033/main_a.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
+    <SUITE FILE_PATH="coverage/AtCoder@main_a.rcov" NAME="main_a Coverage Results" MODIFIED="1589112062792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 167" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main_a__2_.rcov" NAME="main_a (2) Coverage Results" MODIFIED="1560257268523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/virtual/20190611" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main_d.rcov" NAME="main_d Coverage Results" MODIFIED="1589116487109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 167" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@d.rcov" NAME="d Coverage Results" MODIFIED="1588664678646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/AtCoder Beginner Contest 162" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main_b2.rcov" NAME="main_b2 Coverage Results" MODIFIED="1576909768164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Q日ABC精進 #2" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main__4_.rcov" NAME="main (4) Coverage Results" MODIFIED="1555251845685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC087B - Coins" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@a.rcov" NAME="a Coverage Results" MODIFIED="1579954725076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/past201912" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main_c.rcov" NAME="main_c Coverage Results" MODIFIED="1591540765031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/AtCoder Beginner Contest 169" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main_c__2_.rcov" NAME="main_c (2) Coverage Results" MODIFIED="1561206002232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 131" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main__1_.rcov" NAME="main (1) Coverage Results" MODIFIED="1555338570659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC088B - Card Game for Two" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@IRB_console__AtCoder.rcov" NAME="IRB console: AtCoder Coverage Results" MODIFIED="1580043315806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main_a__1_.rcov" NAME="main_a (1) Coverage Results" MODIFIED="1589716913342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 168" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main_a2.rcov" NAME="main_a2 Coverage Results" MODIFIED="1576909132675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Q日ABC精進 #2" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main_d__1_.rcov" NAME="main_d (1) Coverage Results" MODIFIED="1589721195970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 168" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main_b2__1_.rcov" NAME="main_b2 (1) Coverage Results" MODIFIED="1561639217496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/virtual/20190627" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main_c2.rcov" NAME="main_c2 Coverage Results" MODIFIED="1576911393928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Q日ABC精進 #2" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@test141.rcov" NAME="test141 Coverage Results" MODIFIED="1568616578973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 141" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@f.rcov" NAME="f Coverage Results" MODIFIED="1579958181848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/past201912" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main__5_.rcov" NAME="main (5) Coverage Results" MODIFIED="1555338226737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC083B - Some Sums" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@c.rcov" NAME="c Coverage Results" MODIFIED="1579954955381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/past201912" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@main__3_.rcov" NAME="main (3) Coverage Results" MODIFIED="1555601980672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC049C - Daydream" MODULE_NAME="AtCoder" />
+    <SUITE FILE_PATH="coverage/AtCoder@test.rcov" NAME="test Coverage Results" MODIFIED="1568040559631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AtCoder Beginner Contest 140" MODULE_NAME="AtCoder" />
   </component>
 </project>

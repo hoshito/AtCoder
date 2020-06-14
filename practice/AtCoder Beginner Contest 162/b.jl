@@ -1,6 +1,10 @@
-function main()
-  n,m = parse.(Int,split(readline()))
-  ans = n - sum(parse.(Int,split(readline())))
-  println(ans >= 0 ? ans : -1)
-end
-main()
+(() -> begin
+  n = readline() |> x->parse.(Int,x)
+  ans = 0
+  for i in 1:n
+    if i % 3 != 0 && i % 5 != 0
+      ans += i
+    end
+  end
+  println(ans)
+end)()

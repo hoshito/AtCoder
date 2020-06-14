@@ -1,9 +1,14 @@
 (() -> begin
-  n,k = readline() |> split |> x->parse.(Int,x)
-  ans = 0
-  for i in k:n+1
-    ans += Int((i * (n + (n-i+1)))/ 2 - (i * (0 + i-1)) /2 + 1)
-    ans = mod(ans, 10^9 + 7)
+  n = readline() |> x->parse.(Int,x)
+  s = readline()
+  ans = count("R", s) * count("G", s) * count("B", s)
+  for i in 1:n-2
+    for j in i+1:n-1
+      k = 2 * j - i
+      if k <= n && s[i] != s[j] && s[j] != s[k] && s[k] != s[i]
+        ans -= 1
+      end
+    end
   end
   println(ans)
 end)()

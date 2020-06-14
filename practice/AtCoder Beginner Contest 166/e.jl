@@ -1,4 +1,6 @@
-x = readline() |> x->parse.(Int,x)
+n = readline() |> x->parse.(Int,x)
+a_arr = readline() |> split |> x->parse.(Int,x)
+
 (() -> begin
   for a in -120:120
     for b in -120:120
