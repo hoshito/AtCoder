@@ -1,16 +1,13 @@
 n,m = gets.chomp.split(" ").map(&:to_i)
 
-max_l = 0
-min_r = n
+min = 1
+max = n
+
 m.times do |i|
-  l,r=gets.chomp.split(" ").map(&:to_i)
-  max_l = l if l > max_l
-  min_r = r if r < min_r
+  l,r = gets.chomp.split(" ").map(&:to_i)
+  min = l if l > min
+  max = r if r < max
 end
 
-result = min_r - max_l + 1
-if result > 0 then
-  puts result
-else
-  puts 0
-end
+puts [max - min + 1, 0].max
+
