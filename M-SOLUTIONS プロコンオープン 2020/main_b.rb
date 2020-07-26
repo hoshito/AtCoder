@@ -1,8 +1,17 @@
-n = gets.chomp.to_i
-a_arr = gets.chomp.split(" ").map(&:to_i)
+a,b,c = gets.chomp.split(" ").map(&:to_i)
+k = gets.chomp.to_i
 
-count = 0
-(1..n).each do |i|
-  count += 1 if i % 2 == 1 && a_arr[i-1] % 2 == 1
+# a < b < c を目指す
+k.times do
+  if a >= b
+    b *= 2
+  elsif b >= c
+    c *= 2
+  end
 end
-puts count
+
+if a < b && b < c
+  puts "Yes"
+else
+  puts "No"
+end
